@@ -1,0 +1,3 @@
+Trabajo practico aulico entrega en el dia
+
+realizar un sitio web que contenga en 3 secciones todos los temas dados. 
